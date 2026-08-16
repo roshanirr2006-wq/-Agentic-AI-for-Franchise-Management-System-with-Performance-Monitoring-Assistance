@@ -251,8 +251,8 @@ Through this milestone, the following concepts were learned:
 
 
 # Team Members
-- Akeera Nandan
-- Boddu Mounika
-- Divya sree Koneti
-- Gillala Sai Gouthami
-- Tazreen Rahman
+- Roshani Rajput
+- Jayshree
+- Sanvi Reddy
+- Shiva Reddy
+- Soundarya
