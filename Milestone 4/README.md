@@ -925,7 +925,7 @@ must be compatible with the target environment.
 # Demo Video
 
 Recommended location:
-<img width="1600" height="695" alt="WhatsApp Image 2026-08-16 at 8 38 54 PM (1)" src="https://github.com/user-attachments/assets/5e256f30-de34-479a-9885-8d0853c08974" />
+https://github.com/user-attachments/assets/dd3fb9c8-47bc-4999-90d5-78fb07d1a29a
 
 ### Suggested demo sequence
 
