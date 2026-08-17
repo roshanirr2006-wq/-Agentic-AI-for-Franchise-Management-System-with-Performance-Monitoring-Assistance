@@ -41,9 +41,9 @@
 
 | Name                | Role / What They Built | GitHub Handle        |
 | ------------------- | ---------------------- | -------------------- |
-| **Shivaram Ponnam** | **AI/ML Model Development**     | **@github-handle** |
-| **Kuldeepreddy** | **Admin Dashboard & Data Feed Center**     | **@github-handle** |
-| **Roshini Rajput** | **UI/Fronted Development**     | **@github-handle** |
+| **Shivaram Ponnam** | **AI/ML Model Development**     | **@ShivaramPonnam** |
+| **Kuldeepreddy** | **Admin Dashboard & Data Feed Center**     | **@Kuladeepreddy** |
+| **Roshini Rajput** | **UI/Fronted Development**     | **@roshanirr2006-wq** |
 | **Bhavya Sree** | **Authentication and Login Module**     | **@bhavyasreegujjula** |
 | **Boddu Mounika** | **System Integration & Analytics**     | **@Mounika-boddu** |
 
@@ -70,39 +70,8 @@ The application also includes authentication, role-based access, OTP-based passw
 
 The project follows a layered architecture:
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    4. GENERATION LAYER                     │
-│                                                             │
-│        Qwen2.5-Coder-1.5B-Instruct / AI Copilot            │
-│        Grounded business responses and executive advice     │
-└──────────────────────────────▲──────────────────────────────┘
-                               │
-┌──────────────────────────────┴──────────────────────────────┐
-│                   3. ORCHESTRATION LAYER                   │
-│                                                             │
-│                     intent_router.py                        │
-│       Classifies business questions and retrieves facts     │
-└──────────────────────────────▲──────────────────────────────┘
-                               │
-┌──────────────────────────────┴──────────────────────────────┐
-│                    2. REASONING TOOLS                      │
-│                                                             │
-│  Workforce │ Outlet │ Inventory │ Marketing │ Sentiment    │
-│  Audit │ Executive Digest │ Translation │ Document RAG     │
-│                                                             │
-│       SQL analytics + ML comparison + visualisation        │
-└──────────────────────────────▲──────────────────────────────┘
-                               │
-┌──────────────────────────────┴──────────────────────────────┐
-│                        1. DATA LAYER                        │
-│                                                             │
-│                    SQLite Database                          │
-│                                                             │
-│ outlets │ staff │ inventory │ marketing │ feedback         │
-│ audits │ users │ alerts │ chat history │ supporting data   │
-└─────────────────────────────────────────────────────────────┘
-```
+<img width="462" height="508" alt="Screenshot 2026-08-17 143107" src="https://github.com/user-attachments/assets/09a03296-cd6a-425c-8cb8-6b12ca2336ac" />
+
 
 ### Architecture Diagram
 
