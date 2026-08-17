@@ -44,13 +44,13 @@
 | ------------------- | ---------------------- | -------------------- |
 | **[Shivaram Ponnam]** | **[AI/ML Model Development]**     | **[@github-handle]** |
 | **[Kuldeepreddy]** | **[Admin Dashboard & Data Feed Center]**     | **[@github-handle]** |
-| **[Roshini Rajput]** | **[UI/Fronted Development]**     | **[@github-handle]** |
+| **[Roshini Rajput]** | **[UI/Fronted Development]**     | **[ @roshanirr2006-wq]** |
 | **[Bhavya Sree]** | **[Authentication and Login Module]**     | **[@github-handle]** |
 | **[Boddu Mounika]** | **[System Integration & Analytics]**     | **[@Mounika-boddu]** |
 
 
 # Overall Project Explanation
-
+ 
 ## Problem Statement
 
 Managing a franchise network with multiple outlets requires continuous monitoring of workforce performance, outlet revenue, inventory, marketing campaigns, customer feedback and compliance.
