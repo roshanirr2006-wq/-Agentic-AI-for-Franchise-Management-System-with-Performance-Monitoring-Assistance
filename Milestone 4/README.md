@@ -921,11 +921,18 @@ CUDA-compatible PyTorch installation
 must be compatible with the target environment.
 
 ---
-
 # Demo Video
 
 Recommended location:
-https://github.com/user-attachments/assets/dd3fb9c8-47bc-4999-90d5-78fb07d1a29a
+
+<img width="1600" height="695" alt="WhatsApp Image 2026-08-16 at 8 38 54 PM (1)" src="
+
+Uploading demo 2.mp4…
+
+
+
+" />
+
 
 ### Suggested demo sequence
 
