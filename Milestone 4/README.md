@@ -1,4 +1,4 @@
-# Agentic AI for Franchise Management System with Performance Monitoring Assistance
+<img width="1906" height="905" alt="image" src="https://github.com/user-attachments/assets/d729a565-cae6-4303-9549-ff2a90308631" /># Agentic AI for Franchise Management System with Performance Monitoring Assistance
 
 ## FranchiseOps AI
 
@@ -22,7 +22,6 @@
 * [Demo Video](#demo-video)
 * [Known Limitations & Future Scope](#known-limitations--future-scope)
 * [Acknowledgements](#acknowledgements)
-* [Final Pre-Submission Checklist](#final-pre-submission-checklist)
 
 ---
 
@@ -36,21 +35,21 @@
 
 | Name                   | Designation              |
 | ---------------------- | ------------------------ |
-| **[Mohamedsipli M]** | **[Infosys Springboard Mentor]** |
+| **Mohamedsipli M** | **Infosys Springboard Mentor** |
 
 ### Team Members
 
 | Name                | Role / What They Built | GitHub Handle        |
 | ------------------- | ---------------------- | -------------------- |
-| **[Shivaram Ponnam]** | **[AI/ML Model Development]**     | **[@github-handle]** |
-| **[Kuldeepreddy]** | **[Admin Dashboard & Data Feed Center]**     | **[@github-handle]** |
-| **[Roshini Rajput]** | **[UI/Fronted Development]**     | **[ @roshanirr2006-wq]** |
-| **[Bhavya Sree]** | **[Authentication and Login Module]**     | **[@bhavyasreegujjula** |
-| **[Boddu Mounika]** | **[System Integration & Analytics]**     | **[@Mounika-boddu]** |
+| **Shivaram Ponnam** | **AI/ML Model Development**     | **@github-handle** |
+| **Kuldeepreddy** | **Admin Dashboard & Data Feed Center**     | **@github-handle** |
+| **Roshini Rajput** | **UI/Fronted Development**     | **@github-handle** |
+| **Bhavya Sree** | **Authentication and Login Module**     | **@bhavyasreegujjula** |
+| **Boddu Mounika** | **System Integration & Analytics**     | **@Mounika-boddu** |
 
 
 # Overall Project Explanation
- 
+
 ## Problem Statement
 
 Managing a franchise network with multiple outlets requires continuous monitoring of workforce performance, outlet revenue, inventory, marketing campaigns, customer feedback and compliance.
@@ -108,10 +107,8 @@ The project follows a layered architecture:
 ### Architecture Diagram
 
 The final repository should contain the exported architecture image here:
+<img width="1536" height="1024" alt="Image Aug 17, 2026, 12_56_35 AM" src="https://github.com/user-attachments/assets/57617161-61d4-48f0-94b5-b7a770d33f69" />
 
-![Architecture](docs/architecture-diagram.png)
-
-> **Required:** Export the architecture diagram as `docs/architecture-diagram.png` before final submission.
 
 ---
 
@@ -186,6 +183,7 @@ Agent 9 allows users to upload PDF, TXT and Markdown documents and search their 
 ---
 
 ## Agent 1 — Workforce & Retention Intelligence
+<img width="1906" height="905" alt="Screenshot 2026-08-17 133025" src="https://github.com/user-attachments/assets/2e5fc131-cab8-4bb6-b9a1-4c6604451156" />
 
 **Business function:** Employee workforce analysis and attrition-risk monitoring.
 
@@ -921,13 +919,23 @@ CUDA-compatible PyTorch installation
 must be compatible with the target environment.
 
 ---
+
 # Demo Video
-
-
 
 Recommended location:
 
-<img width="1600" height="695" alt="WhatsApp Image 2026-08-16 at 8 38 54 PM (1)" src="https://github.com/user-attachments/assets/5e256f30-de34-479a-9885-8d0853c08974" />
+
+
+
+
+https://github.com/user-attachments/assets/d8e05e07-5ac2-4571-a000-efdb39c2cf2c
+
+
+
+
+
+
+
 
 ### Suggested demo sequence
 
@@ -1181,62 +1189,10 @@ Do not rely on deleting the visible line after committing it. If credentials wer
 
 We sincerely thank **Infosys Springboard** for providing the internship opportunity, learning environment and project platform.
 
-We also thank our mentor **[MENTOR FULL NAME]**, **[MENTOR DESIGNATION]**, for guidance, technical feedback and continuous support throughout the project.
+We also thank our mentor **Mohamedsipli M**, **Infosys Springboard Mentor**, for guidance, technical feedback and continuous support throughout the project.
 
 ---
 
-# Final Pre-Submission Checklist
-
-Before submitting the repository, verify every item below.
-
-* [ ] Root-level `README.md` exists.
-* [ ] README is not inside a milestone folder.
-* [ ] Full project title is present.
-* [ ] Codename `FranchiseOps AI` is present.
-* [ ] Infosys Springboard Internship — Batch 1 is mentioned.
-* [ ] Mentor's correct full name and designation are added.
-* [ ] Final team members and GitHub handles are added.
-* [ ] Architecture diagram is saved as `docs/architecture-diagram.png`.
-* [ ] Architecture image is embedded in README.
-* [ ] All 9 agents are documented.
-* [ ] Each agent lists its business function.
-* [ ] Each agent lists its data source.
-* [ ] Each agent lists its model comparison.
-* [ ] Best model and selection metric are documented.
-* [ ] Each agent's outputs/charts are documented.
-* [ ] Authentication flow is documented.
-* [ ] OTP flow is documented.
-* [ ] RBAC roles are documented.
-* [ ] Admin Dashboard is documented.
-* [ ] Login screenshot is added.
-* [ ] Dashboard screenshot is added.
-* [ ] Agent screenshot is added.
-* [ ] AI Copilot screenshot is added.
-* [ ] Admin Dashboard screenshot is added.
-* [ ] OTP screenshot is added.
-* [ ] `requirements.txt` is present.
-* [ ] `requirements.txt` uses pinned versions.
-* [ ] Requirements have been tested in a clean virtual environment.
-* [ ] `.env.example` is present.
-* [ ] `.env` is included in `.gitignore`.
-* [ ] Database files are included in `.gitignore`.
-* [ ] `__pycache__/` is included in `.gitignore`.
-* [ ] `.ipynb_checkpoints/` is included in `.gitignore`.
-* [ ] No real passwords are committed.
-* [ ] No Hugging Face tokens are committed.
-* [ ] No Gmail App Password is committed.
-* [ ] No API keys are committed.
-* [ ] No real personal data is committed.
-* [ ] Demo uses a dummy account.
-* [ ] Demo video is 2–5 minutes.
-* [ ] Demo video is silent or uses optional background music.
-* [ ] Demo video is below GitHub's file-size limit or externally linked.
-* [ ] Admin Dashboard is shown in the demo.
-* [ ] OTP/password-recovery flow is shown in the demo.
-* [ ] Known limitations are documented.
-* [ ] Future scope is documented.
-
----
 
 # FranchiseOps AI
 
