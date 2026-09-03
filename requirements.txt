@@ -1,1 +1,68 @@
+# ═══════════════════════════════════════════════════════════════════════
+# FranchiseOps AI — Complete Project Requirements
+# Python 3.10+ recommended (tested pattern: Google Colab default runtime)
+# ═══════════════════════════════════════════════════════════════════════
 
+# ── Frontend / UI ─────────────────────────────────────────────────────
+streamlit==1.40.0
+streamlit-option-menu==0.4.0
+streamlit-folium==0.23.0
+folium==0.17.0
+plotly==5.24.1
+
+# ── Backend API (LLM inference server, port 8000) ──────────────────────
+fastapi==0.115.5
+uvicorn==0.32.1
+python-multipart==0.0.17
+
+# ── Authentication & Security ───────────────────────────────────────────
+PyJWT==2.9.0
+bcrypt==4.2.1
+
+# ── Deep Learning / LLM (Qwen2.5 Copilot) ──────────────────────────────
+torch==2.5.1
+transformers==4.47.0
+accelerate==1.2.1
+bitsandbytes==0.44.1
+sentencepiece==0.2.0
+huggingface-hub==0.26.5
+
+# ── Multilingual Translation (NLLB-200) ─────────────────────────────────
+deep-translator==1.11.4
+
+# ── Sentiment Analysis (Agent 5) ────────────────────────────────────────
+textblob==0.18.0
+vaderSentiment==3.3.2
+
+# ── Machine Learning (Agents 1, 2, 3 — 7-algorithm benchmarking) ───────
+scikit-learn==1.5.2
+pandas==2.2.3
+numpy==1.26.4
+joblib==1.4.2
+
+# ── RAG / Retrieval Pipeline (Agent 9: Document RAG) ────────────────────
+faiss-cpu==1.9.0
+sentence-transformers==3.3.1
+langchain==0.3.9
+langchain-community==0.3.9
+langchain-core==0.3.21
+langchain-text-splitters==0.3.2
+
+# ── Document Processing (PDF ingestion, report generation) ─────────────
+pymupdf==1.24.14
+pdfplumber==0.11.4
+reportlab==4.2.5
+fpdf==1.7.2
+beautifulsoup4==4.12.3
+
+# ── Data Acquisition (Kaggle datasets for training) ─────────────────────
+kaggle==1.6.17
+kagglehub==0.3.4
+
+# ── Networking / Utilities ──────────────────────────────────────────────
+requests==2.32.3
+urllib3==2.2.3
+tqdm==4.67.1
+
+# ── Deployment Tunneling ─────────────────────────────────────────────────
+pyngrok==7.2.1
